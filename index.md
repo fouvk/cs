@@ -9,6 +9,3 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ## About me
 Im going into computer science for university (might be cooked)
 In my free time I like gaming, visual arts, fishing, biking, playing volleyball
-
----
-*Update this page by editing `index.md` in your repository.*
